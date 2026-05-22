@@ -264,8 +264,8 @@ Update the three href values with your actual URLs before committing:
   <h2>Links</h2>
   <nav aria-label="Social links">
     <a href="https://github.com/vojneski">GitHub</a>
-    <a href="https://linkedin.com/in/vojneski">LinkedIn</a>
-    <a href="mailto:vladimir.vojneski@keitaro.com">Email</a>
+    <a href="https://linkedin.com/in/vladimir-vojneski-sysadmin">LinkedIn</a>
+    <a href="mailto:vladimir@vojneski.dev">Email</a>
   </nav>
 </section>
 ```
