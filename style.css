@@ -31,7 +31,7 @@ section {
   margin-bottom: 4rem;
 }
 
-h1 {
+.hero h1 {
   font-family: var(--font-mono);
   font-size: 2rem;
   font-weight: 600;
